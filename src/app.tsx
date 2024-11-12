@@ -2,7 +2,7 @@
 export function App() {
   return (
     <div>
-      React + Webpack5 
+     this is soemthing that should be changed
     </div>
   );
 }
